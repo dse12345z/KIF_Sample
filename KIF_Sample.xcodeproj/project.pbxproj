@@ -22,12 +22,12 @@
 		7EF734171C2AA7BB00FB3761 /* UIColor+MixColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EF734101C2AA7BB00FB3761 /* UIColor+MixColor.m */; };
 		7EF7341C1C2AA7BF00FB3761 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EF7341A1C2AA7BF00FB3761 /* ViewController.m */; };
 		7EF7341D1C2AA7BF00FB3761 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7EF7341B1C2AA7BF00FB3761 /* ViewController.xib */; };
-		7EF734561C2AAB7A00FB3761 /* ButtonUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EF7344D1C2AA82F00FB3761 /* ButtonUITests.m */; };
 		7EF734581C2AAB7A00FB3761 /* libPods-KIF_SampleUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E5434B199F9541872D909672 /* libPods-KIF_SampleUITests.a */; };
 		7EF734671C2AAB8E00FB3761 /* libPods-KIF_SampleUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E5434B199F9541872D909672 /* libPods-KIF_SampleUITests.a */; };
 		7EF734761C2AAB9200FB3761 /* libPods-KIF_SampleUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E5434B199F9541872D909672 /* libPods-KIF_SampleUITests.a */; };
-		7EF734811C2AAC2500FB3761 /* TextFieldUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EF734801C2AAC2500FB3761 /* TextFieldUITests.m */; };
-		7EF734851C2AAC2B00FB3761 /* TableViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EF734841C2AAC2B00FB3761 /* TableViewUITests.m */; };
+		7EF734901C2AAFB700FB3761 /* ButtonUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EF7348F1C2AAFB700FB3761 /* ButtonUITests.m */; };
+		7EF734941C2AAFC000FB3761 /* TextFieldUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EF734931C2AAFC000FB3761 /* TextFieldUITests.m */; };
+		7EF734981C2AAFC600FB3761 /* TableViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EF734971C2AAFC600FB3761 /* TableViewUITests.m */; };
 		CDB20AD94F4178C1D521E906 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B2BE66D90ED364CE37DB94B /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -100,15 +100,15 @@
 		7EF734191C2AA7BF00FB3761 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		7EF7341A1C2AA7BF00FB3761 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		7EF7341B1C2AA7BF00FB3761 /* ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
-		7EF7344C1C2AA82F00FB3761 /* ButtonUITests.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ButtonUITests.h; sourceTree = "<group>"; };
-		7EF7344D1C2AA82F00FB3761 /* ButtonUITests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ButtonUITests.m; sourceTree = "<group>"; };
 		7EF7345E1C2AAB7A00FB3761 /* ButtonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ButtonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EF7346D1C2AAB8E00FB3761 /* TextFieldUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TextFieldUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EF7347C1C2AAB9200FB3761 /* TableViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TableViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		7EF7347F1C2AAC2500FB3761 /* TextFieldUITests.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextFieldUITests.h; sourceTree = "<group>"; };
-		7EF734801C2AAC2500FB3761 /* TextFieldUITests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TextFieldUITests.m; sourceTree = "<group>"; };
-		7EF734831C2AAC2B00FB3761 /* TableViewUITests.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewUITests.h; sourceTree = "<group>"; };
-		7EF734841C2AAC2B00FB3761 /* TableViewUITests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewUITests.m; sourceTree = "<group>"; };
+		7EF7348E1C2AAFB700FB3761 /* ButtonUITests.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ButtonUITests.h; sourceTree = "<group>"; };
+		7EF7348F1C2AAFB700FB3761 /* ButtonUITests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ButtonUITests.m; sourceTree = "<group>"; };
+		7EF734921C2AAFC000FB3761 /* TextFieldUITests.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextFieldUITests.h; sourceTree = "<group>"; };
+		7EF734931C2AAFC000FB3761 /* TextFieldUITests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TextFieldUITests.m; sourceTree = "<group>"; };
+		7EF734961C2AAFC600FB3761 /* TableViewUITests.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewUITests.h; sourceTree = "<group>"; };
+		7EF734971C2AAFC600FB3761 /* TableViewUITests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewUITests.m; sourceTree = "<group>"; };
 		8B2BE66D90ED364CE37DB94B /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E17017516F2DA2A000651AF /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		E5434B199F9541872D909672 /* libPods-KIF_SampleUITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-KIF_SampleUITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -247,9 +247,9 @@
 		7EF733EF1C2AA30900FB3761 /* KIF_SampleUITests */ = {
 			isa = PBXGroup;
 			children = (
-				7EF734821C2AAC2B00FB3761 /* TableViewUITests */,
-				7EF7347E1C2AAC2500FB3761 /* TextFieldUITests */,
-				7EF7344B1C2AA82F00FB3761 /* ButtonUITests */,
+				7EF734951C2AAFC600FB3761 /* TableViewUITests */,
+				7EF734911C2AAFC000FB3761 /* TextFieldUITests */,
+				7EF7348D1C2AAFB700FB3761 /* ButtonUITests */,
 				7EF733F21C2AA30900FB3761 /* Info.plist */,
 			);
 			path = KIF_SampleUITests;
@@ -294,34 +294,31 @@
 			path = ViewController;
 			sourceTree = "<group>";
 		};
-		7EF7344B1C2AA82F00FB3761 /* ButtonUITests */ = {
+		7EF7348D1C2AAFB700FB3761 /* ButtonUITests */ = {
 			isa = PBXGroup;
 			children = (
-				7EF7344C1C2AA82F00FB3761 /* ButtonUITests.h */,
-				7EF7344D1C2AA82F00FB3761 /* ButtonUITests.m */,
+				7EF7348E1C2AAFB700FB3761 /* ButtonUITests.h */,
+				7EF7348F1C2AAFB700FB3761 /* ButtonUITests.m */,
 			);
-			name = ButtonUITests;
-			path = "../../Other Origin/KIF_Sample/KIF_SampleUITests/ButtonUITests";
+			path = ButtonUITests;
 			sourceTree = "<group>";
 		};
-		7EF7347E1C2AAC2500FB3761 /* TextFieldUITests */ = {
+		7EF734911C2AAFC000FB3761 /* TextFieldUITests */ = {
 			isa = PBXGroup;
 			children = (
-				7EF7347F1C2AAC2500FB3761 /* TextFieldUITests.h */,
-				7EF734801C2AAC2500FB3761 /* TextFieldUITests.m */,
+				7EF734921C2AAFC000FB3761 /* TextFieldUITests.h */,
+				7EF734931C2AAFC000FB3761 /* TextFieldUITests.m */,
 			);
-			name = TextFieldUITests;
-			path = "../../Other Origin/KIF_Sample/KIF_SampleUITests/TextFieldUITests";
+			path = TextFieldUITests;
 			sourceTree = "<group>";
 		};
-		7EF734821C2AAC2B00FB3761 /* TableViewUITests */ = {
+		7EF734951C2AAFC600FB3761 /* TableViewUITests */ = {
 			isa = PBXGroup;
 			children = (
-				7EF734831C2AAC2B00FB3761 /* TableViewUITests.h */,
-				7EF734841C2AAC2B00FB3761 /* TableViewUITests.m */,
+				7EF734961C2AAFC600FB3761 /* TableViewUITests.h */,
+				7EF734971C2AAFC600FB3761 /* TableViewUITests.m */,
 			);
-			name = TableViewUITests;
-			path = "../../Other Origin/KIF_Sample/KIF_SampleUITests/TableViewUITests";
+			path = TableViewUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -743,7 +740,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7EF734561C2AAB7A00FB3761 /* ButtonUITests.m in Sources */,
+				7EF734901C2AAFB700FB3761 /* ButtonUITests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -751,7 +748,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7EF734811C2AAC2500FB3761 /* TextFieldUITests.m in Sources */,
+				7EF734941C2AAFC000FB3761 /* TextFieldUITests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -759,7 +756,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7EF734851C2AAC2B00FB3761 /* TableViewUITests.m in Sources */,
+				7EF734981C2AAFC600FB3761 /* TableViewUITests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
